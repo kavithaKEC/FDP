@@ -1,0 +1,12 @@
+ Volume in drive C is Win 10 o s
+ Volume Serial Number is 0437-2ECA
+
+ Directory of C:\Users\SK\project2\FDP
+
+26-11-2024  15:31    <DIR>          .
+26-11-2024  15:31    <DIR>          ..
+26-11-2024  15:31                 0 b.txt
+26-11-2024  15:30               389 dirlist.txt
+26-11-2024  15:30                43 README.md
+               3 File(s)            432 bytes
+               2 Dir(s)  177,574,895,616 bytes free
